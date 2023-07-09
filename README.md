@@ -20,3 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimcihan&show_icons=true&locale=en" alt="ibrahimcihan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimcihan&" alt="ibrahimcihan" /></p>
+
+
+![snake gif](https://github.com/ibrahimcihan/ibrahimcihan/blob/output/github-contribution-grid-snake.gif)
