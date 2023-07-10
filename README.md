@@ -1,4 +1,4 @@
-![MasterHead](https://wallpaper.dog/large/20567146.png)
+![MasterHead](https:/)
 <h1 align="center">Hi 👋, I'm İbrahim Cihan Yaran</h1>
 <h3 align="center">A passionate student and developer from Turkiye</h3>
 
