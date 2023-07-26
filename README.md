@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm İbrahim Cihan Yaran</h1>
+<h1 align="center">Hello 👋, I'm İbrahim Cihan Yaran</h1>
 <h3 align="center">A passionate student and developer from Turkiye</h3>
 
 - 🌱 I’m currently learning **Unity**
